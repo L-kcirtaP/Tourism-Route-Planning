@@ -32,11 +32,17 @@ Data Visualization:
 ---------------
 
 * The diagrams of traffic network.
-  ![Aviation Network](http://oz5h8pmj2.bkt.clouddn.com/Aviation.png)
-  ![Railway Network](http://oz5h8pmj2.bkt.clouddn.com/Railway.png)
+ 
+ ![Aviation Network](http://oz5h8pmj2.bkt.clouddn.com/Aviation.png)
+  
+ ![Railway Network](http://oz5h8pmj2.bkt.clouddn.com/Railway.png)
+
 * The diagrams of optimization results.
-  ![The Least Time Route](http://oz5h8pmj2.bkt.clouddn.com/LeastTime.png)
-  ![The Least Money Route](http://oz5h8pmj2.bkt.clouddn.com/LeastMoney.png)
+ 
+ ![The Least Time Route](http://oz5h8pmj2.bkt.clouddn.com/LeastTime.png)
+ 
+ ![The Least Money Route](http://oz5h8pmj2.bkt.clouddn.com/LeastMoney.png)
+
 * Note that red arrows represent the aviation and blue arrows represent the railway in the result diagrams. 
 
 Result
@@ -49,5 +55,5 @@ Acknowledgement
 ----------------
 
 I want to express thanks to:
-  * My group members: James GUAN & Blues FU
-  * My instructor: Prof. Hong Mingyi
+ * My group members: James GUAN & Blues FU
+ * My instructor: Prof. Hong Mingyi
